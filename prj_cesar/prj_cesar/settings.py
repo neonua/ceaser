@@ -78,8 +78,8 @@ WSGI_APPLICATION = 'prj_cesar.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-    'NAME': 'cesar',
-    'USER': 'postgres',
+    'NAME': '',
+    'USER': '',
     'PASSWORD': '',
     # 'HOST': '',
     # 'PORT': '',
